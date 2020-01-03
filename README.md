@@ -1,6 +1,8 @@
 # Simple Analytics static page
 
-A static page we can use for error pages or homepages of our CDN's
+A static page we can use for error pages or homepages of our CDN's.
+
+[Live preview](https://simpleanalytics.github.io/static-page/).
 
 ## Desktop
 
