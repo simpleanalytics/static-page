@@ -1,4 +1,8 @@
-# Simple Analytics static page
+<a href="https://simpleanalytics.com/?ref=github.com/simpleanalytics/static-page">
+  <img src="https://assets.simpleanalytics.com/images/logos/logo-github-readme.png" alt="Simple Analytics logo" align="right" height="62" />
+</a>
+
+# Static page
 
 A static page we can use for error pages or homepages of our CDN's.
 
